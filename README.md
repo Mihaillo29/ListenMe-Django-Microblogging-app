@@ -41,7 +41,7 @@ valuable learning opportunity for anyone interested in exploring the possibiliti
 
 Anyone who wants to run this project first need to install the required packages by running this following command
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 I hope that this project will serve as a 
 valuable resource for anyone interested in learning more about microblogging and the process of 
