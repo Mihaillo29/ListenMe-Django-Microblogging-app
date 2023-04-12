@@ -29,6 +29,7 @@ valuable learning opportunity for anyone interested in exploring the possibiliti
 
 <details>
 <summary>Future Work </summary>
+
 - [ ] Hashtag 
 - [ ] Search User
 - [ ] Search Tweet
