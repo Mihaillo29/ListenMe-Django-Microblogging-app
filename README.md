@@ -49,4 +49,5 @@ valuable resource for anyone interested in learning more about microblogging and
 building a customized solution
 
 project team
-https://github.com/Tejalhatt
+Tejal Deshmukh: https://github.com/Tejalhatt
+Gauri Gandhi: https://github.com/Candyxoxo
